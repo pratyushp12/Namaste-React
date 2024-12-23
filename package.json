@@ -1,0 +1,14 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "this is a simple app created using npm init",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pratyush Praveen",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
